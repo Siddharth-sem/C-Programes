@@ -1,2 +1,2 @@
 # C Programes
-This includes my C projects
+This includes all of my C programming projects from basics.
